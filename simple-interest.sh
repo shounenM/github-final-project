@@ -5,7 +5,7 @@
    # Do not use this in production. Sample purpose only.
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <"shounenM">
+   # shounenM
    # Input:
    # p, principal amount
    # t, time period in years
